@@ -16,7 +16,7 @@ cat << EOF > /etc/v2ray/config.json
         "streamSettings": {
             "network": "ws",
             "wsSettings": {
-                "path": "/e0ec9256-12be-48ef-b183-e22bdf1c12a4"
+                "path": "/myreddog"
             }
         }
     }],
